@@ -2753,8 +2753,8 @@ img{
 .footer-bg .overlay .content .content1 .overlay2 .form button{
    position: absolute;
    top: 97px;
-   right: 60px;
-   padding:20px 40px;
+   right: 40px;
+   padding:15px 5px;
    background:#273c66;
    color: #ffffff;
    border: none;
